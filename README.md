@@ -15,4 +15,4 @@ Upload only the mymalloc.c and mymalloc.h to UGVLE by the due date.
 You cannot use malloc() and free() in your implementation of MyMalloc() and MyFree().
 "
 
-this is not real malloc() nor it does replicate it, only its logic. hope it helps for somebody
+this is not real malloc() nor it does replicate it, only its logic. hope it helps somebody
