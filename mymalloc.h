@@ -7,11 +7,11 @@
 #define NULL ((void *)0)
 #endif // NULL (defines if not defined by stddef.h)
 
-#ifndef SIZE_T_DEFINED
+#ifndef _SIZE_T_DEFINED
 #ifndef size_t
 typedef unsigned long size_t;
 #endif // size_t (defines if not defined by stddef.h)
-#define SIZE_T_DEFINED
+#define _SIZE_T_DEFINED
 #endif // SIZE_T_DEFINED
 
 #define MEM_CAP 25000
