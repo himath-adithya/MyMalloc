@@ -12,7 +12,7 @@
 typedef unsigned long size_t;
 #endif // size_t (defines if not defined by stddef.h)
 #define _SIZE_T_DEFINED
-#endif // SIZE_T_DEFINED
+#endif // _SIZE_T_DEFINED
 
 #define MEM_CAP 25000
 #define HEADER_SIZE 2
